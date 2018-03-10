@@ -1,4 +1,4 @@
-# Score-keep app
-This App Was created using Meteor and React
+# Score-keep Application
+This Application Was created using Meteor and React
 ## Author
 Dakoto Ayasemale
