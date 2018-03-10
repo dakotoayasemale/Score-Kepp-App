@@ -6,3 +6,4 @@ Dakoto Ayasemale
    #1. Loging System for the Application
    #2. Analytics
    #3. Links Integration and other MISC
+   #4. Restructure the SCSS Architecture to mirror the short-lnk App styles Architecture
